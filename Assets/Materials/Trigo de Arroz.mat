@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GrassMat
+  m_Name: Trigo de Arroz
   m_Shader: {fileID: -6465566751694194690, guid: b66f9ebbeba0fa54b80faa582aa6af9b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -138,14 +138,14 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0, g: 0.7584905, b: 0.039937943, a: 1}
-    - _BottomColor: {r: 0.37598795, g: 0.6132076, b: 0, a: 0}
+    - _BottomColor: {r: 0.686027, g: 0.85882354, b: 0, a: 0}
     - _Color: {r: 0, g: 0.7584905, b: 0.039937943, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FarColor: {r: 0.92608625, g: 0.99607843, b: 0.1137255, a: 0}
+    - _FarColor: {r: 0, g: 1, b: 0.0537467, a: 0}
     - _GrassColor: {r: 0.008660078, g: 1, b: 0, a: 1}
-    - _NearColor: {r: 0, g: 1, b: 0.11940789, a: 0}
+    - _NearColor: {r: 0.99215686, g: 0.99215686, b: 0.99215686, a: 0}
     - _NearFarRange: {r: 3.1, g: 17.79, b: 0, a: 0}
-    - _ShadowColor: {r: 0.30419922, g: 1, b: 0, a: 0}
+    - _ShadowColor: {r: 0.089009404, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _WindNoiseContrast: {r: 0, g: 1, b: 0, a: 0}
     - _WindNoiseScale: {r: 40, g: 100, b: 0, a: 0}
