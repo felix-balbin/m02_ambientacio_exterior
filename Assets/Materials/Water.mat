@@ -98,9 +98,9 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _Float: 1
-    - _FoamAmount: 1
-    - _FoamCutOff: 1.98
-    - _FoamScale: 80
+    - _FoamAmount: 78.51
+    - _FoamCutOff: 12.73
+    - _FoamScale: 154.3
     - _FoamSpeed: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -120,7 +120,7 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _WaterDepth: 10
+    - _WaterDepth: 7.07
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
