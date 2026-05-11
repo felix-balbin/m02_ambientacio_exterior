@@ -20,7 +20,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _RefractionSpeed
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -127,7 +127,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DeepWater: {r: 0, g: 0.24837662, b: 0.5698112, a: 0.7764706}
+    - _DeepWater: {r: 0.24363652, g: 0.4373124, b: 0.6886792, a: 0.7764706}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0.8117647}
     - _ShallowWater: {r: 0, g: 0.7973289, b: 1, a: 0.16862746}
